@@ -1,1 +1,0 @@
-# BarcoSolar2019
