@@ -1,0 +1,9 @@
+RESTRICCIONES
+Toda la enegía (excepto un pack de 4 pilas para la parte de control) debe salir del panel solar. Sus características teóricas (habrá que estudia las reales) son las siguientes:
+Potencia: 100W
+Medidas: 1060 x 540 x 3 mm
+Características típicas (en condiciones de test: 1000 Wtts/m^2; 25ºC):
+	tensión circuito abierto: 21V
+	corriente de cortocircuito: 6.3A
+	Tención a máxima potencia: 17.5V
+	Corriente a máxima potencia: 5.7A
